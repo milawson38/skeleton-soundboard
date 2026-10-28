@@ -1,0 +1,503 @@
+{
+ "under5": [
+  {
+   "f": "audio/under5/01.mp3",
+   "t": "Hello there! Wiggle wiggle, I'm so happy to see you."
+  },
+  {
+   "f": "audio/under5/02.mp3",
+   "t": "Hi little friend, can you wave? Yay!"
+  },
+  {
+   "f": "audio/under5/03.mp3",
+   "t": "Rattle rattle, what a nice costume I see."
+  },
+  {
+   "f": "audio/under5/04.mp3",
+   "t": "Boo! Hehe, that was a silly boo."
+  },
+  {
+   "f": "audio/under5/05.mp3",
+   "t": "Clackety-clack, let's say hello together."
+  },
+  {
+   "f": "audio/under5/06.mp3",
+   "t": "Hiya! One, two, three, big smiles!"
+  },
+  {
+   "f": "audio/under5/07.mp3",
+   "t": "Oh no, my funny bone fell off again."
+  },
+  {
+   "f": "audio/under5/08.mp3",
+   "t": "Hello hello! You make my bones feel warm."
+  },
+  {
+   "f": "audio/under5/09.mp3",
+   "t": "Giggle with me, wiggle wiggle wiggle!"
+  },
+  {
+   "f": "audio/under5/10.mp3",
+   "t": "Hi there, can you give a tiny wave? Yay!"
+  },
+  {
+   "f": "audio/under5/11.mp3",
+   "t": "Rattle rattle, you're such a good visitor."
+  },
+  {
+   "f": "audio/under5/12.mp3",
+   "t": "A gentle boo turns into happy giggles."
+  },
+  {
+   "f": "audio/under5/13.mp3",
+   "t": "Clackety-clack, what fun to meet you."
+  },
+  {
+   "f": "audio/under5/14.mp3",
+   "t": "Hiccup! Oops, silly skeleton hiccups."
+  },
+  {
+   "f": "audio/under5/15.mp3",
+   "t": "Hello friend, let's count to three: one, two, three!"
+  },
+  {
+   "f": "audio/under5/16.mp3",
+   "t": "Wiggle wiggle, I love your happy face."
+  },
+  {
+   "f": "audio/under5/17.mp3",
+   "t": "Hi hi! My bones are dancing for you."
+  },
+  {
+   "f": "audio/under5/18.mp3",
+   "t": "Rattle rattle, you're safe and welcome here."
+  },
+  {
+   "f": "audio/under5/19.mp3",
+   "t": "Boo! Hehe, now we both laugh together."
+  },
+  {
+   "f": "audio/under5/20.mp3",
+   "t": "Clackety-clack, can you say hello back? Yay!"
+  },
+  {
+   "f": "audio/under5/21.mp3",
+   "t": "Oh dear, my elbow bone is tickling me."
+  },
+  {
+   "f": "audio/under5/22.mp3",
+   "t": "Hello little one, big warm hello to you."
+  },
+  {
+   "f": "audio/under5/23.mp3",
+   "t": "One, two, three, let's all giggle now."
+  },
+  {
+   "f": "audio/under5/24.mp3",
+   "t": "Hiccup! Excuse my silly skeleton burps."
+  },
+  {
+   "f": "audio/under5/25.mp3",
+   "t": "Wiggle wiggle, your smile makes me shine."
+  },
+  {
+   "f": "audio/under5/26.mp3",
+   "t": "Rattle rattle, what a sweet friend you are."
+  },
+  {
+   "f": "audio/under5/27.mp3",
+   "t": "Hi there! Can you wave high? Yay!"
+  },
+  {
+   "f": "audio/under5/28.mp3",
+   "t": "Gentle boo into the happiest giggles."
+  },
+  {
+   "f": "audio/under5/29.mp3",
+   "t": "Clackety-clack, come say hi anytime."
+  },
+  {
+   "f": "audio/under5/30.mp3",
+   "t": "Hello hello, my bones are full of joy for you."
+  }
+ ],
+ "5to10": [
+  {
+   "f": "audio/5to10/01.mp3",
+   "t": "Hey there, bonehead! Ready for a spooktacular treat?"
+  },
+  {
+   "f": "audio/5to10/02.mp3",
+   "t": "Trick or treat? I've got a funny bone just for you!"
+  },
+  {
+   "f": "audio/5to10/03.mp3",
+   "t": "Whoa, what a crew! Let's rattle up some fun tonight!"
+  },
+  {
+   "f": "audio/5to10/04.mp3",
+   "t": "I'm all bones and no brains, but I've got candy for days!"
+  },
+  {
+   "f": "audio/5to10/05.mp3",
+   "t": "Knock knock! It's your favorite bag of bones!"
+  },
+  {
+   "f": "audio/5to10/06.mp3",
+   "t": "Hehe, you caught me ribbing around—happy Halloween!"
+  },
+  {
+   "f": "audio/5to10/07.mp3",
+   "t": "Don't be skullish, grab some goodies and go!"
+  },
+  {
+   "f": "audio/5to10/08.mp3",
+   "t": "My hollow ribcage is empty but my spirit's full of fun!"
+  },
+  {
+   "f": "audio/5to10/09.mp3",
+   "t": "Bone voyage, little ghouls—happy haunting!"
+  },
+  {
+   "f": "audio/5to10/10.mp3",
+   "t": "I'm just a skeleton but I've got a heart of gold... somewhere!"
+  },
+  {
+   "f": "audio/5to10/11.mp3",
+   "t": "Shake your bones and say boo! Candy's waiting!"
+  },
+  {
+   "f": "audio/5to10/12.mp3",
+   "t": "You've got me tickled to the marrow—welcome!"
+  },
+  {
+   "f": "audio/5to10/13.mp3",
+   "t": "No guts, no glory, but plenty of sweets here!"
+  },
+  {
+   "f": "audio/5to10/14.mp3",
+   "t": "I'm humerus-ly happy to see you tonight!"
+  },
+  {
+   "f": "audio/5to10/15.mp3",
+   "t": "Rattle those feet and come get a treat, kiddo!"
+  },
+  {
+   "f": "audio/5to10/16.mp3",
+   "t": "Spooky? Nah, just silly bones throwing candy!"
+  },
+  {
+   "f": "audio/5to10/17.mp3",
+   "t": "My big appetite is all for fun—take a treat!"
+  },
+  {
+   "f": "audio/5to10/18.mp3",
+   "t": "tibia honest, you're looking awesome tonight!"
+  },
+  {
+   "f": "audio/5to10/19.mp3",
+   "t": "One skeleton, zero stomach, endless Halloween cheer!"
+  },
+  {
+   "f": "audio/5to10/20.mp3",
+   "t": "Let's make this night femurtastic!"
+  },
+  {
+   "f": "audio/5to10/21.mp3",
+   "t": "Boo to you! From one bony friend to another!"
+  },
+  {
+   "f": "audio/5to10/22.mp3",
+   "t": "Stick around and I'll tell another pun—I've got a skele-ton of 'em!"
+  },
+  {
+   "f": "audio/5to10/23.mp3",
+   "t": "No spine? No problem—I've got treats instead!"
+  },
+  {
+   "f": "audio/5to10/24.mp3",
+   "t": "You're looking skull-tastic, little monster!"
+  },
+  {
+   "f": "audio/5to10/25.mp3",
+   "t": "I've got a bone to pick... with who wants candy first!"
+  },
+  {
+   "f": "audio/5to10/26.mp3",
+   "t": "Joint the party, it's Halloween o'clock!"
+  },
+  {
+   "f": "audio/5to10/27.mp3",
+   "t": "My ribs are tickled pink—or should I say orange?"
+  },
+  {
+   "f": "audio/5to10/28.mp3",
+   "t": "Don't be a numbskull, come say hello!"
+  },
+  {
+   "f": "audio/5to10/29.mp3",
+   "t": "Skeleton crew reporting for treat duty!"
+  },
+  {
+   "f": "audio/5to10/30.mp3",
+   "t": "Happy Halloween—you're the highlight of my afterlife!"
+  }
+ ],
+ "11to15": [
+  {
+   "f": "audio/11to15/01.mp3",
+   "t": "Nice eye roll, kid. Save it for when your phone dies."
+  },
+  {
+   "f": "audio/11to15/02.mp3",
+   "t": "Oh look, another too-cool zombie. Trick or treat yourself to some enthusiasm."
+  },
+  {
+   "f": "audio/11to15/03.mp3",
+   "t": "Phone out already? Congrats, you just lost the vibe."
+  },
+  {
+   "f": "audio/11to15/04.mp3",
+   "t": "This is so lame\" — said every kid who still wants candy."
+  },
+  {
+   "f": "audio/11to15/05.mp3",
+   "t": "Keep rolling those eyes, maybe you'll find a personality in there."
+  },
+  {
+   "f": "audio/11to15/06.mp3",
+   "t": "Acting like you're above this? Buddy, you're literally at my door."
+  },
+  {
+   "f": "audio/11to15/07.mp3",
+   "t": "Wow, the over-it energy is strong with this one. Next."
+  },
+  {
+   "f": "audio/11to15/08.mp3",
+   "t": "Mouthy at eleven? Can't wait to see you at sixteen, still empty-handed."
+  },
+  {
+   "f": "audio/11to15/09.mp3",
+   "t": "Put the phone down before I start roasting your playlist."
+  },
+  {
+   "f": "audio/11to15/10.mp3",
+   "t": "Too cool to say hello? Cool, then you're too cool for my Snickers."
+  },
+  {
+   "f": "audio/11to15/11.mp3",
+   "t": "Eye-rolling that hard might pull a muscle. Relax."
+  },
+  {
+   "f": "audio/11to15/12.mp3",
+   "t": "This is lame\" — famous last words before the door shuts."
+  },
+  {
+   "f": "audio/11to15/13.mp3",
+   "t": "Sass level high, candy level dropping fast. Choose wisely."
+  },
+  {
+   "f": "audio/11to15/14.mp3",
+   "t": "Over-it already? Halloween just started, pace yourself."
+  },
+  {
+   "f": "audio/11to15/15.mp3",
+   "t": "Acting like my porch is beneath you? Bold strategy, cotton."
+  },
+  {
+   "f": "audio/11to15/16.mp3",
+   "t": "Keep pretending you're too old for this and watch me believe you."
+  },
+  {
+   "f": "audio/11to15/17.mp3",
+   "t": "Phones out, attitude up — classic move for kids who still want free stuff."
+  },
+  {
+   "f": "audio/11to15/18.mp3",
+   "t": "That half-heckle was weak. Try harder or take the candy and go."
+  },
+  {
+   "f": "audio/11to15/19.mp3",
+   "t": "Too cool to smile? That's fine, your loss on the good bars."
+  },
+  {
+   "f": "audio/11to15/20.mp3",
+   "t": "Eye rolls don't unlock the good candy bowl, just so you know."
+  },
+  {
+   "f": "audio/11to15/21.mp3",
+   "t": "Mouthy and over-it — the two fastest ways to get fun-size only."
+  },
+  {
+   "f": "audio/11to15/22.mp3",
+   "t": "Save the attitude for your group chat. I'm not impressed."
+  },
+  {
+   "f": "audio/11to15/23.mp3",
+   "t": "This is so lame\" coming from the kid begging at skeleton doors. Irony."
+  },
+  {
+   "f": "audio/11to15/24.mp3",
+   "t": "Roll your eyes one more time and I'll match your energy with the door."
+  },
+  {
+   "f": "audio/11to15/25.mp3",
+   "t": "Too cool for Halloween? Then why are you here, trendsetter?"
+  },
+  {
+   "f": "audio/11to15/26.mp3",
+   "t": "That unimpressed face is working real hard for free chocolate."
+  },
+  {
+   "f": "audio/11to15/27.mp3",
+   "t": "Acting like this is beneath you while reaching for my candy — cute."
+  },
+  {
+   "f": "audio/11to15/28.mp3",
+   "t": "Over-it at your age? Wait till you're my age, then we'll talk."
+  },
+  {
+   "f": "audio/11to15/29.mp3",
+   "t": "Phone's more interesting than a talking skeleton? Bold, but wrong."
+  },
+  {
+   "f": "audio/11to15/30.mp3",
+   "t": "Keep that energy up and the only thing you'll get is a better story for your friends about how a skeleton shut you down."
+  }
+ ],
+ "teens": [
+  {
+   "f": "audio/teens/01.mp3",
+   "t": "Nice hoodie, kid — did your \"I'm too cool for Halloween\" costume come with the eye-roll, or did you add that yourself? Here's some candy anyway."
+  },
+  {
+   "f": "audio/teens/02.mp3",
+   "t": "Ah, the classic \"hoodie and regret\" ensemble. Aren't you a little old for this? Just kidding, take some candy."
+  },
+  {
+   "f": "audio/teens/03.mp3",
+   "t": "Look at you, half-effort legend. Most teens quit at your age; respect for showing up. Candy's yours."
+  },
+  {
+   "f": "audio/teens/04.mp3",
+   "t": "That costume's so lazy it needs a nap. Good thing my candy bowl doesn't judge."
+  },
+  {
+   "f": "audio/teens/05.mp3",
+   "t": "Trick-or-treating at your age? Bold. Most your friends are out pretending they're too cool for this. Candy for the effort."
+  },
+  {
+   "f": "audio/teens/06.mp3",
+   "t": "Hoodie game strong, costume game... nonexistent. Still, skeleton approves. Grab some sweets."
+  },
+  {
+   "f": "audio/teens/07.mp3",
+   "t": "Too cool for this\" walks up to a talking skeleton. Irony called, it wants its candy back. Here you go."
+  },
+  {
+   "f": "audio/teens/08.mp3",
+   "t": "I see the half-effort uniform is back in style. Don't worry, the candy's fully committed."
+  },
+  {
+   "f": "audio/teens/09.mp3",
+   "t": "Aren't you a little old to be ringing random doorbells? Nah, who am I kidding — candy's on the house."
+  },
+  {
+   "f": "audio/teens/10.mp3",
+   "t": "That costume took you what, thirty whole seconds? Impressive. Enjoy the sugar rush."
+  },
+  {
+   "f": "audio/teens/11.mp3",
+   "t": "The \"I swear I'm just here for my little sibling\" vibe is strong tonight. Candy regardless."
+  },
+  {
+   "f": "audio/teens/12.mp3",
+   "t": "Hood up, enthusiasm down. Classic teen move. Lucky for you, this skeleton's generous."
+  },
+  {
+   "f": "audio/teens/13.mp3",
+   "t": "You rolled up looking like you lost a bet with laziness. Candy makes it all better."
+  },
+  {
+   "f": "audio/teens/14.mp3",
+   "t": "Too cool to dress up, yet here you are begging a skeleton for treats. Love the consistency. Take some."
+  },
+  {
+   "f": "audio/teens/15.mp3",
+   "t": "Your costume's basically \"incognito teenager.\" Bold strategy. Candy for the comedy."
+  },
+  {
+   "f": "audio/teens/16.mp3",
+   "t": "I was going to say you're too old for this, but then I remembered I'm a pile of bones. Here, have some."
+  },
+  {
+   "f": "audio/teens/17.mp3",
+   "t": "Half a costume and full confidence. That's rarer than a honest politician. Candy's yours."
+  },
+  {
+   "f": "audio/teens/18.mp3",
+   "t": "The hoodie says \"I'm over this,\" but your hand in my candy bowl says otherwise. Enjoy."
+  },
+  {
+   "f": "audio/teens/19.mp3",
+   "t": "Nice try blending in with the actual children. Almost worked. Almost. Candy anyway."
+  },
+  {
+   "f": "audio/teens/20.mp3",
+   "t": "That costume's so minimal it might file for unemployment. Good thing candy's free."
+  },
+  {
+   "f": "audio/teens/21.mp3",
+   "t": "Aren't you supposed to be out toilet-papering houses by now? Or is that next on the list? Take some treats."
+  },
+  {
+   "f": "audio/teens/22.mp3",
+   "t": "The \"I threw this together in the dark\" look is really working for you. Skeleton seal of approval and candy."
+  },
+  {
+   "f": "audio/teens/23.mp3",
+   "t": "You showed up like Halloween owes you money. Fortunately I'm in a giving mood."
+  },
+  {
+   "f": "audio/teens/24.mp3",
+   "t": "Too cool for a real costume, yet not too cool for free candy. I respect the math. Here you go."
+  },
+  {
+   "f": "audio/teens/25.mp3",
+   "t": "That hoodie is pulling overtime while your costume clocks out early. Candy for the dedication."
+  },
+  {
+   "f": "audio/teens/26.mp3",
+   "t": "I see the annual \"I'm just accompanying friends\" excuse is alive and well. Candy for all."
+  },
+  {
+   "f": "audio/teens/27.mp3",
+   "t": "Your effort level is inspiring...ly low. Still, a talking skeleton can't complain. Sweets inbound."
+  },
+  {
+   "f": "audio/teens/28.mp3",
+   "t": "Look who decided to grace the porch with their too-cool presence. Candy, with a side of sarcasm."
+  },
+  {
+   "f": "audio/teens/29.mp3",
+   "t": "The \"barely tried\" costume hall of fame just called — you're their new MVP. Enjoy the haul."
+  },
+  {
+   "f": "audio/teens/30.mp3",
+   "t": "Showing up at my door at your age takes guts. Or maybe just hunger. Either way, candy's waiting."
+  }
+ ],
+ "skits": [
+  {
+   "id": "full",
+   "f": "skit/dinner-party.mp3",
+   "t": "🎭 Full dinner-party skit",
+   "loop": true
+  },
+  {
+   "id": "hh",
+   "f": "skit/happy-halloween.mp3",
+   "t": "🎃 Happy Halloween!"
+  }
+ ]
+}

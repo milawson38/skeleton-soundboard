@@ -1,0 +1,34 @@
+# Under 5 — warm, silly, never scary
+# One line per row. Delete a row to cut it. Blank lines + #comments ignored.
+# Lines starting with [ are stage cues; keep short ones like [chuckle].
+
+Hello there! Wiggle wiggle, I'm so happy to see you.
+Hi little friend, can you wave? Yay!
+Rattle rattle, what a nice costume I see.
+Boo! Hehe, that was a silly boo.
+Clackety-clack, let's say hello together.
+Hiya! One, two, three, big smiles!
+Oh no, my funny bone fell off again.
+Hello hello! You make my bones feel warm.
+Giggle with me, wiggle wiggle wiggle!
+Hi there, can you give a tiny wave? Yay!
+Rattle rattle, you're such a good visitor.
+A gentle boo turns into happy giggles.
+Clackety-clack, what fun to meet you.
+Hiccup! Oops, silly skeleton hiccups.
+Hello friend, let's count to three: one, two, three!
+Wiggle wiggle, I love your happy face.
+Hi hi! My bones are dancing for you.
+Rattle rattle, you're safe and welcome here.
+Boo! Hehe, now we both laugh together.
+Clackety-clack, can you say hello back? Yay!
+Oh dear, my elbow bone is tickling me.
+Hello little one, big warm hello to you.
+One, two, three, let's all giggle now.
+Hiccup! Excuse my silly skeleton burps.
+Wiggle wiggle, your smile makes me shine.
+Rattle rattle, what a sweet friend you are.
+Hi there! Can you wave high? Yay!
+Gentle boo into the happiest giggles.
+Clackety-clack, come say hi anytime.
+Hello hello, my bones are full of joy for you.
